@@ -16,5 +16,3 @@ This is a **console-based Library Management System** written in pure **Core Jav
 - Core Java only (No database, no frameworks)
 - Data stored in memory using `HashMap`
 
-## 🏗️ Project Structure
-
